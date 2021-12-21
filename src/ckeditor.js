@@ -30,7 +30,7 @@ import Table from "@ckeditor/ckeditor5-table/src/table";
 import TableToolbar from "@ckeditor/ckeditor5-table/src/tabletoolbar";
 import TextTransformation from "@ckeditor/ckeditor5-typing/src/texttransformation";
 import ImageResizeHandles from "@ckeditor/ckeditor5-image/src/imageresize/imageresizehandles";
-import ImageResizeEditing from "@ckeditor/ckeditor5-image/src/imageresize/imageresizeedititing";
+import ImageResizeEditing from "@ckeditor/ckeditor5-image/src/imageresize/imageresizeediting";
 
 export default class ClassicEditor extends ClassicEditorBase {}
 
